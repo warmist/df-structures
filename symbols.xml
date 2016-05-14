@@ -216,9 +216,9 @@
         code
 
         <global-address name='start_dwarf_count' value='0xC77632'/>
-        <global-address name='twbt_load_multi_pdim' value='0xb73290'/>
-        <global-address name='twbt_render_map' value='0x9bd480'/>
-        <global-address name='twbt_render_updown' value='0x7ff980'/>
+        <global-address name='twbt_load_multi_pdim' value='0xCD83A0'/>
+        <global-address name='twbt_render_map' value='0xAFFC20'/>
+        <global-address name='twbt_render_updown' value='0x8DB2A0'/>
 
         generated standingorders
 
