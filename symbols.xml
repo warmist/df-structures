@@ -1198,7 +1198,9 @@
         code
 
         <global-address name='start_dwarf_count'/>
-        
+
+        <global-address name='twbt_render_map' value='0xB1F140'/>
+
         <global-address name='delete_world_region_details'        value='0x04433D0'/> <!-- Used by exportmaps plugin -->
         <global-address name='delete_world_region_details_vector' value='0x070E0D0'/> <!-- Used by exportmaps plugin -->
         <global-address name='delete_world_site_realization'      value='0x0CE6140'/> <!-- Used by exportmaps plugin -->
